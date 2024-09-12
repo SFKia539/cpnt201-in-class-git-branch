@@ -13,9 +13,13 @@
 
 ## Jollof Rice
 
+![#Jollof Rice](food-images/download.jpg)
+
 ## Chocolate Chip Cookie
 
 ## Butter Chicken
+
+![#Butter Chicken](food-images/download-1.jpg)
 
 ## Chicken Quesadillas
 
