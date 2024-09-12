@@ -11,10 +11,6 @@
 
 # Random Foodimages
 
-![Cheese Pizza](food-images/classic-cheese-pizza-FT-RECIPE0422-31a2c938fc2546c9a07b7011658cfd05.jpg)
-![Chicken Quesadillas](food-images/Easy-Chicken-Quesadillas-200-300-KB-16.jpg)
-![Donair](food-images/images.jpg)
-
 ## Jollof Rice
 
 ## Chocolate Chip Cookie
@@ -23,6 +19,12 @@
 
 ## Chicken Quesadillas
 
+![Chicken Quesadillas](food-images/Easy-Chicken-Quesadillas-200-300-KB-16.jpg)
+
 ## Cheese Pizza
 
+![Cheese Pizza](food-images/classic-cheese-pizza-FT-RECIPE0422-31a2c938fc2546c9a07b7011658cfd05.jpg)
+
 ## Donair
+
+![Donair](food-images/images.jpg)
